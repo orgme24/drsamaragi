@@ -1,0 +1,5 @@
+.github/
+wrangler.jsonc
+.assetsignore
+.gitignore
+README.md

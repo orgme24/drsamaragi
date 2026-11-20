@@ -1,0 +1,10 @@
+{
+  // Static site served by a Cloudflare Worker (Workers Static Assets).
+  // No server code: the "assets" directory is served directly from the root,
+  // so the site's root-absolute paths (/wp-content/..., /serv/, ...) work as-is.
+  "name": "drsamaragi",
+  "compatibility_date": "2026-11-20",
+  "assets": {
+    "directory": "./"
+  }
+}
